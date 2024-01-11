@@ -12,7 +12,10 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('jurusans', function (Blueprint $table) {
-            $table->id();
+            // $table->id();
+            $table->integer('id_jurusan',10)->autoIncrement();
+            $table->enum('jenis_jurusan')->nullable(false);
+            $table->text('foto_jurusan')->nullable(true);
             $table->timestamps();
         });
     }

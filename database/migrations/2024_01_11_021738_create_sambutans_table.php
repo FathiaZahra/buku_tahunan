@@ -12,7 +12,11 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('sambutans', function (Blueprint $table) {
-            $table->id();
+            // $table->id();
+            $table->integer('id_sambutan',10)->autoIncrement();
+            $table->enum('jenis_sambutan',60)->nullable(false);
+            $table->text('deskripsi')->nullable(false);
+            $table->text('foto_sambutan')->nullable(true);
             $table->timestamps();
         });
     }

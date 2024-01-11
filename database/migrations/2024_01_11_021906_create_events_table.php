@@ -12,7 +12,10 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('events', function (Blueprint $table) {
-            $table->id();
+            // $table->id();
+            $table->integer('id_events',10)->autoIncrement();
+            $table->string('nama_events',60)->nullable(false);
+            $table->text('foto_events')->nullable(true);
             $table->timestamps();
         });
     }
