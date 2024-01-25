@@ -281,15 +281,15 @@
             <div class="icon-link">
               <a href="#">
                 <i class='bx bx-bulb'></i>
-                <span class="link_name">Solutions</span>
+                <span class="link_name">Profile</span>
               </a>
               <i class='bx bxs-chevron-down arrow'></i>
             </div>
             <ul class="sub-menu">
               <li><a class="link_name" href="#">Solutions</a></li>
-              <li><a href="#">Payments API</a></li>
-              <li><a href="#">Accounts APi</a></li>
-              <li><a href="#">Finance API</a></li>
+              <li><a href="#">Profile Guru</a></li>
+              <li><a href="#">Profile Kelas</a></li>
+              <li><a href="#">Angket Kelas</a></li>
             </ul>
           </li>
           <li>
