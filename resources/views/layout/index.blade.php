@@ -269,7 +269,7 @@
         </div>
         <ul class="nav-links">
           <li>
-            <a href="#">
+            <a href="http://127.0.0.1:8000/beranda">
               <i class='bx bx-home'></i>
               <span class="link_name" href="http://127.0.0.1:8000/beranda">Beranda</span>
             </a>
@@ -375,7 +375,7 @@
       <section class="home-section">
         <div class="home-content">
           <i class='bx bx-menu'></i>
-          <span class="text">Beranda</span>
+          <span class="text"  href="http://127.0.0.1:8000/beranda">Beranda</span>
         </div>
         <div>
           @yield('content')

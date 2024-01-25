@@ -13,6 +13,13 @@
         </div>
     </div> --}}
 {{-- </html> --}}
+<div style='margin-left:70px; margin-top:30px;'>
+    <span class="h1">R P L - B</span>
+</div>
+
+<div style='margin-left:70px; margin-top:15px;'>
+    <span class="h6 text-white">SMK NEGERI 1 KOTA BEKASI</span>
+</div>
 
 <div class="container mt-4">
     <div class="row">
