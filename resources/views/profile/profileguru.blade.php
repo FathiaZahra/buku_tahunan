@@ -13,28 +13,38 @@
         </div>
     </div> --}}
 {{-- </html> --}}
+<div style='margin-left:70px; margin-top:30px;'>
+    <span class="h1">O U R -</span><br>
+    <span class="h1">T E A C H E R</span>
+</div>
 
+<div style='margin-left:70px; margin-top:15px;'>
+    <span class="h6 text-white">SMK NEGERI 1 KOTA BEKASI</span>
+</div>
 <div class="container mt-4">
     <div class="row">
+        
         <div class="col-md-3 mb-4">
             <div class="card-body">
                 <img src="{{ asset('gambar/ketua_osis.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
-                <h4 class="text-center">jeno.spd</h4>
+                <div class="card-body d-flex justify-content-center">
+                    <span class="h4 text-white">Jeno</span>
+                </div>
             </div>
         </div>
         <div class="col-md-3 mb-4">
             <div class="card-body">
-                <img src="{{ asset('gambar/ketua_BTS.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
+                <img src="{{ asset('gambar/ketua_osis.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
             </div>
         </div>
         <div class="col-md-3 mb-4">
             <div class="card-body">
-                <img src="{{ asset('gambar/kesiswaan.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
+                <img src="{{ asset('gambar/ketua_osis.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
             </div>
         </div>
         <div class="col-md-3 mb-4">
             <div class="card-body">
-                <img src="{{ asset('gambar/kpl_sekolah.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
+                <img src="{{ asset('gambar/ketua_osis.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
             </div>
         </div>
     </div>
@@ -48,17 +58,17 @@
             </div>
             <div class="col-md-3 mb-4">
                 <div class="card-body">
-                    <img src="{{ asset('gambar/ketua_BTS.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
+                    <img src="{{ asset('gambar/ketua_osis.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
                 </div>
             </div>
             <div class="col-md-3 mb-4">
                 <div class="card-body">
-                    <img src="{{ asset('gambar/kesiswaan.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
+                    <img src="{{ asset('gambar/ketua_osis.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
                 </div>
             </div>
             <div class="col-md-3 mb-4">
                 <div class="card-body">
-                    <img src="{{ asset('gambar/kpl_sekolah.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
+                    <img src="{{ asset('gambar/ketua_osis.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
                 </div>
             </div>
         </div>

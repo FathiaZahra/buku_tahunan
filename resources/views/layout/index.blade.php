@@ -271,7 +271,7 @@
           <li>
             <a href="#">
               <i class='bx bx-home'></i>
-              <span class="link_name">Beranda</span>
+              <span class="link_name" href="http://127.0.0.1:8000/beranda">Beranda</span>
             </a>
             <ul class="sub-menu blank">
               <li><a class="link_name" href="http://127.0.0.1:8000/beranda">Beranda</a></li>
