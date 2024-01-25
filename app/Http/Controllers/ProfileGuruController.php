@@ -8,6 +8,6 @@ class ProfileGuruController extends Controller
 {
     public function index()
     {
-        return view('profileguru.profile');
+        return view('profile.profileguru');
     }
 }
