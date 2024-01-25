@@ -271,10 +271,10 @@
           <li>
             <a href="#">
               <i class='bx bx-home'></i>
-              <span class="link_name">Home</span>
+              <span class="link_name">Beranda</span>
             </a>
             <ul class="sub-menu blank">
-              <li><a class="link_name" href="#">Home</a></li>
+              <li><a class="link_name" href="#">Beranda</a></li>
             </ul>
           </li>
           <li>

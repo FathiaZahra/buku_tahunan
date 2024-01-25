@@ -36,6 +36,26 @@
     </div>
 
 
+    <div style='margin-left:70px; margin-top:15px; width:1000px;'>
+        <div>
+            <h1>SAMBUTAN KEPALA SEKOLAH</h1>
+            <p>Dr. Lee Soo Man, S.M</p>
+            <p>Assalamualaikum wrwb. Hamdan wa syukron lillah, ama ba'du.</p>
+            <p>Segala puji bagi dzat yang telah melimpahkan rahmat kepada kita semua,</p>
+            <p>shalawat dan salam tetap tercurah kepada baginda Nabi Muhammad SAW, yang</p>
+            <p>telah membimbing dan menunjukkan kita jalan kebenaran yakni addinul Islam.</p>
+            <p>Dan Semoga kita kelak mendapatkan syafaatnya, Aamiin.</p>
+            <p>Saya hanya bisa mendoakan, semoga selepas dari kelulusan Ananda Jeno Lee</p>
+            <p>dari SMK NEO CULTURE, Ananda semakin saleh, semakin cerdas, dan siap memimpin.</p>
+            <p>Dijalur apapun dan dibidang apapun semoga diberikan kesuksesan dan mendapat ridho dari Allah SWT.</p>
+            <p>Aamiin.</p>
+            <p>Selamat menghadapi dunia nyata, dunia yang penuh ujian dan tantangan.</p>
+            <p>Semoga engkau mampu melewatinya dengan baik.</p>
+            <p>Wassalamulalaikum wr wb.</p>
+        </div>
+    </div>
+
+
 
 
 
