@@ -193,7 +193,7 @@ display: flex;
             display: flex;
             justify-content: center;
             ">
-            <img src=" {{ asset('gambar/ketua_btss')}}" alt="" class="w-20 h-20">
+            <img src=" {{ asset('gambar/ketua_btss.jpeg')}}" alt="" class="w-20 h-20">
             <br>          
 </div>
 <div>
@@ -206,7 +206,7 @@ display: flex;
         <h1>OSIS</h1><br>
     </div>
     <div style='margin-left:70px; margin-top:30px;'>
-        <span class="h6 text-white relative margin-top:20px;">KWON JI YONG</span>
+        <span class="h6 text-white relative margin-top:20px;">NAM JOO HYUK</span>
     </div>   
 </div>
 </div> 
