@@ -100,7 +100,7 @@
                 display: flex;
                 justify-content: center;
                 ">
-                <img src=" {{ asset('gambar/kpl_sekolah')}}" alt="" class="w-20 h-20">
+                <img src=" {{ asset('gambar/kesiswaan')}}" alt="" class="w-20 h-20">
                 <br>          
 </div>
 <div>
@@ -129,7 +129,6 @@
          melewatinya dengan baik.Wassalamulalaikum wr wb.
     </div>
 </div>
-
 <div style='margin-left:1px; margin-top:100px; width:1000px;'>
     <div>
 <div 
@@ -146,9 +145,10 @@ display: flex;
             display: flex;
             justify-content: center;
             ">
-            <img src=" {{ asset('gambar/kpl_sekolah')}}" alt="" class="w-20 h-20">
+            <img src=" {{ asset('gambar/ketua_bts')}}" alt="" class="w-20 h-20">
             <br>          
 </div>
+
 <div>
     <div style='margin-left:70px; margin-top:50px;'>
         <span class="h6 text-white relative margin-top:20px;">SMK NEGERI 1 KOTA BEKASI</span>
@@ -223,13 +223,6 @@ display: flex;
          melewatinya dengan baik.Wassalamulalaikum wr wb.
     </div>
 </div>
-
-
-
-
-
-
-
 
 
 
