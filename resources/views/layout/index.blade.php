@@ -279,7 +279,7 @@
           </li>
           <li>
             <div class="icon-link">
-              <a href="#">
+              <a href="http://127.0.0.1:8000/profileguru">
                 <i class='bx bx-bulb'></i>
                 <span class="link_name">Profile</span>
               </a>
@@ -296,15 +296,15 @@
             <div class="icon-link">
               <a href="#">
                 <i class='bx bx-news'></i>
-                <span class="link_name">Posts</span>
+                <span class="link_name">Activity</span>
               </a>
               <i class='bx bxs-chevron-down arrow'></i>
             </div>
             <ul class="sub-menu">
-              <li><a class="link_name" href="#">Posts</a></li>
-              <li><a href="#">Recent</a></li>
-              <li><a href="#">Trending</a></li>
-              <li><a href="#">Most Visited</a></li>
+              <li><a class="link_name" href="#">Activity</a></li>
+              <li><a href="#">Organisasi</a></li>
+              <ul><a href="#">OSIS</a></ul>
+              <li><a href="#">Ekstrakulikuler</a></li>
             </ul>
           </li>
            <li>

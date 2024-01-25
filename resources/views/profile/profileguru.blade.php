@@ -28,23 +28,32 @@
             <div class="card-body">
                 <img src="{{ asset('gambar/irene.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
                 <div class="card-body d-flex justify-content-center">
-                    <span class="h4 text-white" style="text-align: center">Jeno</span>
+                    <span class="h3 text-white" style="text-align: center">Irene.Spd</span>
                 </div>
             </div>
         </div>
         <div class="col-md-3 mb-4">
             <div class="card-body">
                 <img src="{{ asset('gambar/irene.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
+                <div class="card-body d-flex justify-content-center">
+                    <span class="h4 text-white" style="text-align: center">Irene.Spd</span>
+                </div>
             </div>
         </div>
         <div class="col-md-3 mb-4">
             <div class="card-body">
                 <img src="{{ asset('gambar/irene.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
+                <div class="card-body d-flex justify-content-center">
+                    <span class="h4 text-white" style="text-align: center">Irene.Spd</span>
+                </div>
             </div>
         </div>
         <div class="col-md-3 mb-4">
             <div class="card-body">
                 <img src="{{ asset('gambar/irene.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
+                <div class="card-body d-flex justify-content-center">
+                    <span class="h4 text-white" style="text-align: center">Irene.Spd</span>
+                </div>
             </div>
         </div>
     </div>
@@ -54,21 +63,33 @@
             <div class="col-md-3 mb-4">
                 <div class="card-body">
                     <img src="{{ asset('gambar/irene.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
+                    <div class="card-body d-flex justify-content-center">
+                        <span class="h4 text-white" style="text-align: center">Irene.Spd</span>
+                    </div>
                 </div>
             </div>
             <div class="col-md-3 mb-4">
                 <div class="card-body">
                     <img src="{{ asset('gambar/irene.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
+                    <div class="card-body d-flex justify-content-center">
+                        <span class="h4 text-white" style="text-align: center">Irene.Spd</span>
+                    </div>
                 </div>
             </div>
             <div class="col-md-3 mb-4">
                 <div class="card-body">
                     <img src="{{ asset('gambar/irene.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
+                    <div class="card-body d-flex justify-content-center">
+                        <span class="h4 text-white" style="text-align: center">Irene.Spd</span>
+                    </div>
                 </div>
             </div>
             <div class="col-md-3 mb-4">
                 <div class="card-body">
                     <img src="{{ asset('gambar/irene.jpg') }}" class="card-img-top" alt="Image 1" style="width: 70%; height: 100%; object-fit: cover; border-radius: 20px;">
+                    <div class="card-body d-flex justify-content-center">
+                        <span class="h4 text-white" style="text-align: center">Irene.Spd</span>
+                    </div>
                 </div>
             </div>
         </div>
