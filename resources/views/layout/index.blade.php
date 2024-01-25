@@ -289,7 +289,7 @@
               {{-- <li><a class="link_name" href="#">Profile</a></li> --}}
               <li><a href="http://127.0.0.1:8000/profileguru">Profile Guru</a></li>
               <li><a href="#">Profile Kelas</a></li>
-              <li><a href="#">Angket Kelas</a></li>
+              <li><a href="http://127.0.0.1:8000/profilesiswa">Profile Siswa</a></li>
             </ul>
           </li>
           <li>

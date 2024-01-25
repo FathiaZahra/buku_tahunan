@@ -3,6 +3,7 @@
 use App\Http\Controllers\BerandaController;
 use App\Http\Controllers\GuruController;
 use App\Http\Controllers\ProfileGuruController;
+use App\Http\Controllers\ProfileSiswaController;
 use App\Models\Guru;
 use Illuminate\Support\Facades\Route;
 
@@ -24,3 +25,4 @@ Route::get('/', function () {
 
 Route::get('/beranda', [BerandaController::class, 'index']);
 Route::get('/profileguru', [ProfileGuruController::class, 'index']);
+Route::get('/profilesiswa', [ProfileSiswaController::class, 'index']);
