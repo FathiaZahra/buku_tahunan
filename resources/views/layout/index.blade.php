@@ -274,7 +274,7 @@
               <span class="link_name">Beranda</span>
             </a>
             <ul class="sub-menu blank">
-              <li><a class="link_name" href="#">Beranda</a></li>
+              <li><a class="link_name" href="http://127.0.0.1:8000/beranda">Beranda</a></li>
             </ul>
           </li>
           <li>
@@ -286,8 +286,8 @@
               <i class='bx bxs-chevron-down arrow'></i>
             </div>
             <ul class="sub-menu">
-              <li><a class="link_name" href="#">Solutions</a></li>
-              <li><a href="#">Profile Guru</a></li>
+              {{-- <li><a class="link_name" href="#">Profile</a></li> --}}
+              <li><a href="http://127.0.0.1:8000/profileguru">Profile Guru</a></li>
               <li><a href="#">Profile Kelas</a></li>
               <li><a href="#">Angket Kelas</a></li>
             </ul>
