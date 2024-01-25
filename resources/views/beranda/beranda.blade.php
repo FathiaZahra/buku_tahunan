@@ -185,7 +185,7 @@ display: flex;
 ">   
 <div
     style="
-            background-image: url('{{ asset('gambar/ketua_osis.jpg')}}');
+            background-image: url('{{ asset('gambar/ketua_btss.jpg')}}');
             background-repeat: no-repeat;
             height:550px;
             width: 500px;
@@ -193,7 +193,7 @@ display: flex;
             display: flex;
             justify-content: center;
             ">
-            <img src=" {{ asset('gambar/kpl_sekolah')}}" alt="" class="w-20 h-20">
+            <img src=" {{ asset('gambar/ketua_btss')}}" alt="" class="w-20 h-20">
             <br>          
 </div>
 <div>
