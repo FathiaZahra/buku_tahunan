@@ -39,6 +39,9 @@
     <div style='margin-left:70px; margin-top:15px; width:1000px;'>
         <div>
             <h1>SAMBUTAN KEPALA SEKOLAH</h1>
+            <div style='margin-left:70px; margin-top:15px;'>
+                <span class="h6 text-white">SMK NEGERI 1 KOTA BEKASI</span>
+            </div>
             <p>Dr. Lee Soo Man, S.M</p>
             <p>Assalamualaikum wrwb. Hamdan wa syukron lillah, ama ba'du.</p>
             <p>Segala puji bagi dzat yang telah melimpahkan rahmat kepada kita semua,</p>
