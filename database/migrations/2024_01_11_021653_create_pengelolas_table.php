@@ -11,7 +11,7 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('pengelolas', function (Blueprint $table) {
+        Schema::create('pengelola', function (Blueprint $table) {
             // $table->id();
             $table->integer('id_pengelola',10)->autoIncrement();
             $table->string('nama_pengelola',60)->nullable(false);

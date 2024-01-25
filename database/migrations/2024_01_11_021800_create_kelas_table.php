@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('kelas', function (Blueprint $table) {
             // $table->id();
             $table->integer('id_kelas',10)->autoIncrement();
-            $table->enum('jenis_kelas')->nullable(false);
+            $table->enum('jenis_kelas', ['rplb','rpla','tkja','tkjb'])->nullable(false);
             $table->text('foto_kelas')->nullable(true);
             $table->string('wali_kelas',60)->nullable(false);
             $table->timestamps();

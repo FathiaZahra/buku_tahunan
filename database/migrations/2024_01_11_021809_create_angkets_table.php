@@ -11,10 +11,10 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('angkets', function (Blueprint $table) {
+        Schema::create('angket', function (Blueprint $table) {
             // $table->id();
             $table->integer('id_angket',10)->autoIncrement();
-            $table->enum('jenis_angket')->nullable(false);
+            $table->string('jenis_angket')->nullable(false);
             $table->text('foto_angket')->nullable(true);
             $table->timestamps();
         });
@@ -25,6 +25,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('angkets');
+        Schema::dropIfExists('angket');
     }
 };

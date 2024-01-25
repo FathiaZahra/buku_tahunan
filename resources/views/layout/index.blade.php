@@ -17,6 +17,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Inknut Antiqua', serif;
+  /* overflow: hidden; */
 }
 .sidebar {
   position: fixed;
@@ -225,10 +226,11 @@
 .home-section {
   position: relative;
   background: #969286;
-  height: 100vh;
+  /* height: 100%; */
   left: 260px;
   width: calc(100% - 260px);
   transition: all 0.5s ease;
+  padding-bottom: 100px;
 }
 .sidebar.close ~ .home-section {
   left: 78px;
@@ -258,6 +260,7 @@
   }
 }
     </style>
+    
 <body>
     <div class="sidebar close">
         <div class="logo-details">

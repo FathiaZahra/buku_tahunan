@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('fasilitas', function (Blueprint $table) {
             // $table->id();
             $table->integer('id_fasilitas',10)->autoIncrement();
-            $table->enum('jenis_fasilitas')->nullable(false);
+            $table->string('jenis_fasilitas')->nullable(false);
             $table->text('deskripsi')->nullable(false);
             $table->text('foto_fasilitas')->nullable(true);
             $table->timestamps();
